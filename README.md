@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reemhassan742" alt="reemhassan742" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/reemhassan742r" target="blank"><img src="https://img.shields.io/twitter/follow/reemhassan742r?logo=twitter&style=for-the-badge" alt="reemhassan742r" /></a> </p>
 
 - 📕 Books I currently reading **{Algorithms Unplugged,Introduction to Algorithms,Head First:SQL,Lightweight Django}**
 
