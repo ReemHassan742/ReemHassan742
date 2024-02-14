@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reem Hassan</h1>
 <h3 align="center">A diligent software student trying to learn .</h3>
-<img align="right" alt="Coding" width="800" src="https://i.pinimg.com/564x/41/59/e2/4159e2b7160850b7051fe7d91ce674dc.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reemhassan742" alt="reemhassan742" /></a> </p>
 
