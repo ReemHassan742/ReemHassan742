@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/reemhassan742r" target="blank"><img src="https://img.shields.io/twitter/follow/reemhassan742r?logo=twitter&style=for-the-badge" alt="reemhassan742r" /></a> </p>
 
-- 📕 Books I currently reading **{Algorithms Unplugged,Introduction to Algorithms,Head First:SQL,Lightweight Django,**
+- 📕 Books I currently reading **{Algorithms Unplugged,Introduction to Algorithms,Head First:SQL,Lightweight Django}**
 
 - 🌱 I’m currently learning **Django,Python,Database,OOP and Data Structures and Algorithms.**
 
