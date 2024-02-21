@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reemhassan742" alt="reemhassan742" /></a> </p>
 
 
-- 📕 Books I currently reading **{Algorithms Unplugged,Introduction to Algorithms,Head First:SQL,Lightweight Django}**
+- 📕 Books I currently reading **{Algorithms Unplugged,Introduction to Algorithms,Head First:SQL,Django design patterns}**
 
 - 🌱 I’m currently learning **Django,Python,Database,OOP and Data Structures and Algorithms.**
 
