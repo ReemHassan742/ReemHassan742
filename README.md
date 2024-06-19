@@ -4,16 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reemhassan742" alt="reemhassan742" /></a> </p>
 
 
-- 📕 Books I currently reading **{Algorithms Unplugged,Introduction to Algorithms,Head First:SQL,lightweight:Django}**
-
-- 🌱 I’m currently learning **Django,Python,Database,OOP and Data Structures and Algorithms.**
-
-- 😊 Soft Skills **Problem-Solving / Critical Thinking ,Time Management,Teamwork,Creativity,Attention to Detail.**
-
-- 📋 My list to learn **Linux,MongoDB,PostgreSQL**
-
-- 📫 How to reach me **reemhassan742r@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/reemhassan742r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reemhassan742r" height="40" width="50" /></a>
