@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Hello, I'm Reem Hassan<br>A diligent software student trying to learn ,<br>an active learner who strives to gain more knowledge every day!</h3>
+<h2 align="center">Hello, I'm Reem Hassan<br>A diligent software student trying to learn ,<br>an active learner who strives to gain more knowledge every day!</h2>
 
 ###
 
