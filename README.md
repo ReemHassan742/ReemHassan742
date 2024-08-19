@@ -4,7 +4,15 @@
 
 ###
 
-<h3 align="center">Hello, I'm Reem Hassan<br><br>A diligent software student trying to learn and an active learner who strives to gain more knowledge every day!</h3>
+<p align="left"></p>
+
+###
+
+<h3 align="center">Hello, I'm Reem Hassan<br><br>A diligent software student trying to learn ,<br>an active learner who strives to gain more knowledge every day!</h3>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -32,6 +40,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <div align="center">
   <a href="reemhassan742r@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
@@ -48,4 +60,8 @@
 </div>
 
 ###
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Reemhassan742&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Reemhassan742&theme=dark&hide_border=true" alt="GitHub Streak">
+  </a>
+</p>
