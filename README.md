@@ -60,8 +60,4 @@
 </div>
 
 ###
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=Reemhassan742&theme=dark&hide_border=true" alt="GitHub Streak">
-  </a>
-</p>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Reemhassan742&theme=dark&hide_border=true)](https://git.io/streak-stats) 
