@@ -4,13 +4,7 @@
 
 ###
 
-<h4 align="center">Hello, I'm Reem Hassan<br><br>A diligent software student trying to learn and an active learner who strives to gain more knowledge every day!</h4>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ReemHassan742 .ReemHassan742 &"  />
-</div>
+<h3 align="center">Hello, I'm Reem Hassan<br><br>A diligent software student trying to learn and an active learner who strives to gain more knowledge every day!</h3>
 
 ###
 
@@ -52,10 +46,6 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="medium logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ReemHassan742 /ReemHassan742 /output/snake.svg" alt="Snake animation" />
 
 ###
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Reemhassan742&theme=dark&hide_border=true)](https://git.io/streak-stats)
