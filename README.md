@@ -1,19 +1,20 @@
-<h3 align="center">Hello, I'm Reem Hassan<br><br>A diligent software student trying to learn and an active learner who strives to gain more knowledge every day!</h3>
-
-###
-
 <div align="center">
   <img height="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
 </div>
 
 ###
 
+<h4 align="center">Hello, I'm Reem Hassan<br><br>A diligent software student trying to learn and an active learner who strives to gain more knowledge every day!</h4>
+
+###
+
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ReemHassan742 .ReemHassan742 &"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="39" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css3 logo"  />
@@ -37,7 +38,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="reemhassan742r@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
@@ -54,8 +55,7 @@
 
 ###
 
-<div align="left">
-</div>
+<img src="https://raw.githubusercontent.com/ReemHassan742 /ReemHassan742 /output/snake.svg" alt="Snake animation" />
 
 ###
 
