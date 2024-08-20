@@ -1,10 +1,3 @@
-<div align="center">
-  <img height="450" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
-</div>
-
-###
-
-<p align="left"></p>
 
 # 💫 About Me:
 Hello, I'm Reem Hassan<br>A diligent software student trying to learn ,<br>an active learner who strives to gain more knowledge every day!
