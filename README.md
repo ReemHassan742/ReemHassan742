@@ -6,7 +6,6 @@ Hello, I'm Reem Hassan<br>A diligent software student trying to learn ,<br>an ac
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reem-hassan-73458525b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@reemhassan742r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reemhassan742r) 
 
-# 💻 Tech Stack:
 # 💻 Tech Stack: 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
