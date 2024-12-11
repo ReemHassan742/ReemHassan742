@@ -23,7 +23,7 @@ Hello, I'm Reem Hassan<br>A diligent software student trying to learn ,<br>an ac
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reemhassan742r&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=reemhassan742r&theme=dark)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemhassan742&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
