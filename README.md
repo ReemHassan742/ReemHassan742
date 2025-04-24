@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Reem Hassan<br>A diligent software student trying to learn ,<br>an active learner who strives to gain more knowledge every day!<br><br><br>I am currently studying Front End alongside reading technical books that sharpen my programming skills :)
+Hello, I'm Reem Hassan<br>A diligent software student trying to learn ,<br>an active learner who strives to gain more knowledge every day!<br><br>I am currently studying Front End alongside reading technical books that sharpen my programming skills :)
 
 
 ## 🌐 Socials:
